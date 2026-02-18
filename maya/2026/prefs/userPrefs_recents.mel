@@ -1,0 +1,28 @@
+//Maya Preference 2026 (Release 1)
+//
+//
+
+optionVar -version 3;
+
+// RecentFiles
+optionVar -cat "RecentFiles"
+ -sa "RecentFilesList"
+ -sva "RecentFilesList" "C:/Users/B00976905/Downloads/Maya Dagger.mb"
+ -sva "RecentFilesList" "D:/Games Design/Year 1/Asset Development/Maya Projects/Shoji Lamp Prop.mb"
+ -sva "RecentFilesList" "D:/Games Design/Year 1/Asset Development/Maya Projects/Vase Prop.mb"
+ -sva "RecentFilesList" "D:/Games Design/Year 1/Asset Development/Maya Projects/Lucky Cat Prop.mb"
+ -sva "RecentFilesList" "C:/Users/B00976905/Documents/maya/projects/RobynDean_AssetDevelopment/scenes/Mask Prop.mb"
+ -sva "RecentFilesList" "C:/Users/B00976905/Documents/maya/projects/RobynDean_AssetDevelopment/scenes/Lucky Cat Prop.mb"
+ -sva "RecentFilesList" "C:/Users/B00976905/Desktop/GamePrototyping_TowardsTheSun/Lucky Cat Prop.mb"
+ -sa "RecentFilesTypeList"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sa "RecentProjectsList"
+ -sva "RecentProjectsList" "C:/Users/B00976905/Documents/maya/projects/RobynDean_AssetDevelopment"
+ ;
+
